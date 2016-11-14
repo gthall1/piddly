@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="374px" height="187px" viewBox="0 0 374 187" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.2.2 (9983) - http://www.bohemiancoding.com/sketch -->
+    <title>Artboard 5</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Artboard-5" sketch:type="MSArtboardGroup" font-family="Arial" font-weight="normal">
+            <text id="66%" sketch:type="MSTextLayer" font-size="66" fill="#34B149">
+                <tspan x="28" y="60">66%</tspan>
+            </text>
+            <text id="$2.2-Trillion" sketch:type="MSTextLayer" font-size="56" fill="#34B149">
+                <tspan x="44" y="161">$2.2 Trillion</tspan>
+            </text>
+            <text id="$20" sketch:type="MSTextLayer" font-size="66" fill="#34B149">
+                <tspan x="226" y="60">$20</tspan>
+            </text>
+            <text id="of-payments-under-$1" sketch:type="MSTextLayer" font-size="10" fill="#000000">
+                <tspan x="33" y="82">of payments under $10 </tspan>
+                <tspan x="33" y="93">made in cash </tspan>
+            </text>
+            <text id="of-payments-under-$1-2" sketch:type="MSTextLayer" font-size="10" fill="#000000">
+                <tspan x="233" y="82">of payments under $10 </tspan>
+                <tspan x="233" y="93">made in cash </tspan>
+            </text>
+            <text id="market-and-only-2-wa" sketch:type="MSTextLayer" font-size="10" fill="#000000">
+                <tspan x="86" y="180">market and only 2 ways to withdraw $5 or $10</tspan>
+            </text>
+        </g>
+    </g>
+</svg>
