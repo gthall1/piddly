@@ -3793,7 +3793,7 @@
 .howit {
 	color: #fff;
 	padding-bottom: 2em;
-	font-size: 3em;
+	font-size: 2.75em;
 }
 
 .features ul {
@@ -3821,11 +3821,13 @@
   }
 
 
+
 @media screen and (max-width: 980px) {
 
 			.lilbump {
 				padding-top: 4em !important;
 			}
+		}
 
 
 @media screen and (max-width: 980px) {
@@ -3842,6 +3844,76 @@
 		}
 
 
+
+.featurepic {
+	float:	left;
+}
+
+.featurelisting {
+	display: inline-block;
+}
+
+.whiteout {
+	color: #fff !important;
+}
+
+#wtf {
+	width: 60%;
+}
+
+.ricky {
+	float:	right;
+}
+
+
+
+@media screen and (max-width: 980px) {
+
+			.oldicons {
+				width: 50% !important;
+			}
+
+			.topbump {
+				padding-top: 2.25em !important;
+			}
+
+		}
+
+
+@media screen and (max-width: 736px) {
+
+			.oldicons {
+				width: 50% !important;
+			}
+
+			.topbump {
+				padding-top: 0em !important;
+			}
+
+		}
+
+
+@media screen and (max-width: 480px) {
+
+			.oldicons {
+				width: 100% !important;
+			}
+
+			.topbump {
+				padding-top: 0em !important;
+			}
+
+			.whiteout {
+				font-size: 12px;
+				line-height: 24px;
+				padding-top: .7em;
+			}
+
+			.rowfat {
+				padding:	1.5em 0 1.5em 0;
+			}
+
+		}
 
 
 
