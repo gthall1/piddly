@@ -3917,5 +3917,80 @@
 
 
 
+.bythenumbersicons {
+	width: 40% !important;
+	display: block;
+	margin: auto;
+}
+
+.bythenumbersrow {
+	float: none !important;
+}
+
+
+.content {
+	    width: calc(33.33333333%);
+}
+
+.bythenumberssection {
+	width: 75%;
+	margin: auto;
+	text-align: center;
+}
+
+.bythenumbersheading {
+	text-align: center;
+	font-size: 3.2em;
+	padding-bottom: .5em;
+}
+
+
+.littlebigger {
+	font-size: 2.25em;
+}
+
+.littlesmaller {
+	margin-bottom: 1em;
+}
+
+@media screen and (max-width: 1280px) {
+
+			.bythenumberssection {
+				width: 95%;
+			}
+
+		}
+
+
+@media screen and (max-width: 980px) {
+
+			.content {
+				width: 100%;
+			}
+
+			.bythenumbersheading {
+				font-size: 2.4em;
+			}
+
+			.littlebigger {
+				margin-bottom: .5em;
+			}
+
+			.mygreenicons {
+				margin-bottom:	1em !important;
+			}
+
+			.bigbump {
+				margin-bottom: 4em;
+			}
+
+			.babybump {
+				margin-bottom: 2em;
+			}
+
+		}
+
+
+
 
 
